@@ -10,19 +10,16 @@
 
 ![image](https://github.com/RealMoMo/NestRadioGroup/blob/master/pic/show1.jpg)
 
-![image](https://github.com/RealMoMo/NestRadioGroup/blob/master/pic/show2.jpg)
+![image](https://github.com/RealMoMo/NestRadioGroup/blob/master/pic/shoew2.jpg)
 
 
-## 使用方法及属性介绍
-
-属性
- - BezierRoundView
+## 属性介绍
 
 name               | format      |中文解释
 ----               |------       |----
 vertical           | boolean   	 |布局方向是否垂直
 
-布局
+
 <br/>
 
 ## xml布局代码
